@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "betterhotbar",
+  "version": "${version}",
+  "name": "BetterHotbar",
+  "description": "Makes your hotbar have a smooth animation and clean look",
+  "authors": [
+    "DivineEssentia"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.divine.betterhotbar.Betterhotbar"
+    ]
+  },
+  "mixins": [
+    "betterhotbar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "minecraft": "1.18.1"
+  }
+}
