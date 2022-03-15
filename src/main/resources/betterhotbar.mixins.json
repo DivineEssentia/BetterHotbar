@@ -4,6 +4,8 @@
   "package": "me.divine.betterhotbar.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+        "AHeldItemRenderer",
+
     "AInGameHudMixin"
   ],
   "client": [
