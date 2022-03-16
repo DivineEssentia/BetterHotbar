@@ -19,11 +19,10 @@ atlassian-ide-plugin.xml
 # Log file
 *.log
 
-# BlueJ files
+# Blue J files
 *.ctxt
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
